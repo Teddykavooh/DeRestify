@@ -14,7 +14,7 @@ Of Django Rest Framework.
 * Activate your vitual environment:
   * Windows: `python.exe .\venv\Scripts\activate`
   * Linux: `source \venv\Scripts\activate`
-* Install dependencies `pip install requirements.txt`
+* Install dependencies `pip install -r requirements.txt`
 * Run project:
   * `cd backend`
   * `python.exe manage.py runserver`
