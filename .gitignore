@@ -282,4 +282,6 @@ pyrightconfig.json
 .history
 .ionide
 
+## My Customization
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,django
